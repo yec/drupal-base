@@ -18,6 +18,4 @@ projects[] = devel
 
 projects[] = strongarm
 
-projects[] = views_ifempty
-
 ; projects[] = features
